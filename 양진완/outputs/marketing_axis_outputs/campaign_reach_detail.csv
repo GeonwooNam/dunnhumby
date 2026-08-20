@@ -1,0 +1,6 @@
+CAMPAIGN,campaign_type,START_DAY,END_DAY,coupon_count,assigned_stage2_households,redeemed_stage2_households
+16,TypeB,561,593,13,14,1
+17,TypeB,575,607,19,9,1
+18,TypeA,587,642,209,56,7
+19,TypeB,603,635,11,5,0
+20,TypeC,615,685,24,14,1

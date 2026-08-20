@@ -1,0 +1,14 @@
+{
+  "database": "C:\\Users\\LG\\Desktop\\독수리\\와빅\\26-Summer DA\\2회차 플젝\\dunnhumby.duckdb",
+  "h1": {
+    "initial_days": 30,
+    "followup_days": 60,
+    "eligible_households": 2499,
+    "diversity_sd": 21.648231539774592
+  },
+  "h2": {
+    "min_sale_weeks": 4,
+    "min_active_span_weeks": 8,
+    "balanced_product_store_pairs": 31662
+  }
+}

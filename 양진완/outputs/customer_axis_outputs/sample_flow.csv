@@ -1,0 +1,12 @@
+step_no,step,households
+1,all_panel_households,2500
+2,baseline_purchase_observed,2493
+3,baseline_baskets_5plus,2057
+4,candidate_home_store_in_causal,2005
+5,candidate_baseline_weeks_8plus,1408
+6,primary_before_preference,1240
+7,primary_final,1099
+80,sensitivity_candidate_with_eligible_preference,1863
+81,sensitivity_primary_eligible1,1217
+90,sensitivity_home70_before_preference,939
+91,sensitivity_home70_final,839

@@ -1,0 +1,9 @@
+comparison,DEPARTMENT,multistore_profiled_products,repeated_sales_positive_products,repeated_penetration_positive_products,repeated_any_positive_products,repeated_any_positive_product_pct,median_product_spv_difference,median_product_bpr_difference
+both_vs_additive,GROCERY,53,26,25,30,56.60377358490566,0.004551931902638425,0.0031492781874170126
+both_vs_none,GROCERY,59,26,30,32,54.23728813559322,0.00451388888888889,0.003693036354326677
+both_vs_none,DRUG GM,1,1,1,1,100.0,0.026072427445425157,0.029040404040404044
+display_only_vs_none,GROCERY,90,27,27,32,35.55555555555556,0.0,0.0
+display_only_vs_none,PRODUCE,2,0,0,0,0.0,-0.012659776278699107,-0.011729139480891087
+display_only_vs_none,DRUG GM,1,0,0,0,0.0,-0.015032565022696601,-0.0063990422954238735
+mailer_only_vs_none,GROCERY,90,26,28,32,35.55555555555556,-1.0256410256410595e-05,5.777567738774695e-05
+mailer_only_vs_none,PRODUCE,1,1,1,1,100.0,0.01003608869183632,0.020952216853171706

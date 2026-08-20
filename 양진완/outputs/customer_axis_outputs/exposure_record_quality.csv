@@ -1,0 +1,2 @@
+households,household_weeks,avg_promo_record_weight,median_promo_record_weight,p90_promo_record_weight,avg_conflict_weight,max_conflict_weight,conflict_household_week_rate,record_weight_exposure_correlation
+1099,82425,0.2431665659139902,0.22727272727272727,0.44897959183673475,0.000648831347928821,0.5641025641025641,0.007873824689111313,0.9845145611888977

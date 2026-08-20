@@ -1,0 +1,13 @@
+DEPARTMENT,COMMODITY_DESC,display_response,display_products,display_pairs,is_display_candidate,mailer_response,mailer_products,mailer_pairs,is_mailer_candidate,both_response,both_products,both_pairs,is_both_candidate,display_stable_3week,mailer_stable_3week,both_stable_3week,synergy_response,synergy_products,synergy_pairs,is_synergy_candidate,synergy_stable_3week,candidate_promo_count,promising_promotions,strategy_type
+GROCERY,BAKED BREAD/BUNS/ROLLS,sales_and_penetration,34,79,1,sales_and_penetration,26,55,1,sales_and_penetration,12,39,1,0,1,0,mixed_or_nonpositive,11,37,0,0,3,"특별 진열, 전단, 전단+진열",복수 후보 - 우열 미확정
+GROCERY,CHEESE,sales_and_penetration,11,60,1,sales_and_penetration,15,43,1,sales_and_penetration,13,37,1,1,1,1,mixed_or_nonpositive,7,27,0,0,3,"특별 진열, 전단, 전단+진열",복수 후보 - 우열 미확정
+GROCERY,MEAT - SHELF STABLE,sales_and_penetration,15,157,1,sales_and_penetration,16,159,1,sales_and_penetration,9,143,1,1,0,1,sales_and_penetration,9,140,1,1,3,"특별 진열, 전단, 전단+진열",복수 후보 - 우열 미확정
+GROCERY,SALD DRSNG/SNDWCH SPRD,sales_and_penetration,16,69,1,penetration_only,14,68,1,penetration_only,11,65,1,0,0,1,mixed_or_nonpositive,11,60,0,0,3,"특별 진열, 전단, 전단+진열",복수 후보 - 우열 미확정
+GROCERY,CANNED JUICES,sales_only,12,59,1,mixed_or_nonpositive,14,61,0,sales_and_penetration,10,64,1,0,0,1,penetration_only,8,43,1,0,2,"특별 진열, 전단+진열",복수 후보 - 우열 미확정
+GROCERY,SOUP,mixed_or_nonpositive,23,112,0,sales_and_penetration,23,115,1,sales_and_penetration,15,73,1,0,1,1,mixed_or_nonpositive,13,67,0,0,2,"전단, 전단+진열",복수 후보 - 우열 미확정
+GROCERY,BAG SNACKS,sales_and_penetration,24,40,1,mixed_or_nonpositive,21,36,0,mixed_or_nonpositive,18,32,0,1,0,0,mixed_or_nonpositive,17,30,0,0,1,특별 진열,단일 우선 후보
+GROCERY,COLD CEREAL,mixed_or_nonpositive,10,45,0,mixed_or_nonpositive,14,48,0,sales_and_penetration,9,45,1,0,0,0,mixed_or_nonpositive,8,40,0,0,1,전단+진열,단일 우선 후보
+GROCERY,CRACKERS/MISC BKD FD,mixed_or_nonpositive,21,111,0,mixed_or_nonpositive,16,105,0,sales_and_penetration,15,102,1,0,0,1,sales_and_penetration,15,94,1,1,1,전단+진열,단일 우선 후보
+GROCERY,DINNER MXS:DRY,mixed_or_nonpositive,10,67,0,mixed_or_nonpositive,15,76,0,sales_only,9,36,1,0,0,0,mixed_or_nonpositive,6,23,0,0,1,전단+진열,단일 우선 후보
+GROCERY,ISOTONIC DRINKS,mixed_or_nonpositive,7,44,0,mixed_or_nonpositive,7,48,0,sales_and_penetration,5,40,1,0,0,0,sales_only,5,38,1,0,1,전단+진열,단일 우선 후보
+GROCERY,VEGETABLES - SHELF STABLE,mixed_or_nonpositive,26,240,0,mixed_or_nonpositive,28,265,0,mixed_or_nonpositive,14,207,0,0,0,0,sales_and_penetration,13,186,1,1,0,"",뚜렷한 후보 없음

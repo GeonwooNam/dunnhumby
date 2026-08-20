@@ -1,0 +1,77 @@
+PRODUCT_ID,MANUFACTURER,DEPARTMENT,BRAND,COMMODITY_DESC,SUB_COMMODITY_DESC,CURR_SIZE_OF_PRODUCT,display_eligible_stores,is_display_candidate,display_response_type,mailer_eligible_stores,is_mailer_candidate,mailer_response_type,both_eligible_stores,is_both_candidate,both_response_type,synergy_eligible_stores,is_synergy_candidate,synergy_response_type,candidate_promo_count
+990797,410,GROCERY,National,CRACKERS/MISC BKD FD,CHEESE CRACKERS (CHEEZ-ITS/GOL,16 OZ,3,1,sales_positive_only,3,1,sales_and_penetration_positive,3,1,sales_and_penetration_positive,3,1,penetration_positive_only,3
+834117,69,GROCERY,Private,WATER - CARBONATED/FLVRD DRINK,NON-CRBNTD DRNKING/MNERAL WATE,405.6 OZ,5,1,sales_and_penetration_positive,4,1,sales_positive_only,3,1,sales_and_penetration_positive,2,0,insufficient_multistore_support,3
+850841,1276,GROCERY,National,ISOTONIC DRINKS,ISOTONIC DRINKS SINGLE SERVE,32 OZ,9,1,sales_positive_only,10,1,penetration_positive_only,10,1,penetration_positive_only,9,0,mixed_or_nonpositive,3
+859075,69,GROCERY,Private,CHEESE,SHREDDED CHEESE,8 OZ,9,1,sales_and_penetration_positive,10,1,sales_and_penetration_positive,10,1,sales_and_penetration_positive,9,0,mixed_or_nonpositive,3
+882830,764,GROCERY,National,WAREHOUSE SNACKS,CANISTER POTATO/TORT CHIPS,5.75 OZ,4,1,sales_and_penetration_positive,4,1,sales_and_penetration_positive,3,1,sales_and_penetration_positive,3,0,mixed_or_nonpositive,3
+908181,69,GROCERY,Private,SOUP,RTS SOUP: CHUNKY/HOMESTYLE ET,18.8 OZ,3,1,sales_positive_only,4,1,sales_and_penetration_positive,3,1,sales_and_penetration_positive,3,0,mixed_or_nonpositive,3
+936594,843,GROCERY,National,BEANS - CANNED GLASS & MW,PREPARED BEANS - BAKED W/PORK,28 OZ,15,1,sales_and_penetration_positive,16,1,sales_and_penetration_positive,12,1,sales_and_penetration_positive,12,0,mixed_or_nonpositive,3
+987562,69,GROCERY,Private,CHEESE,SHREDDED CHEESE,8 OZ,4,1,sales_and_penetration_positive,5,1,sales_and_penetration_positive,5,1,sales_and_penetration_positive,4,0,mixed_or_nonpositive,3
+1045220,1377,GROCERY,National,MEAT - SHELF STABLE,PASTA: CANNED,15 OZ,24,1,penetration_positive_only,24,1,sales_positive_only,24,1,sales_and_penetration_positive,24,0,mixed_or_nonpositive,3
+822407,1377,GROCERY,National,MEAT - SHELF STABLE,PASTA: CANNED,15 OZ,31,1,penetration_positive_only,34,0,mixed_or_nonpositive,31,1,penetration_positive_only,29,1,sales_and_penetration_positive,2
+911470,69,GROCERY,Private,SOUP,RTS SOUP: CHUNKY/HOMESTYLE ET,18.6 OZ,10,0,mixed_or_nonpositive,9,1,sales_and_penetration_positive,8,1,penetration_positive_only,7,1,sales_positive_only,2
+1100972,586,GROCERY,National,CRACKERS/MISC BKD FD,BUTTER SPRAY CRACKER (RITZ/CLU,16 OZ,4,1,sales_and_penetration_positive,4,0,mixed_or_nonpositive,4,1,sales_and_penetration_positive,4,1,sales_positive_only,2
+833025,69,GROCERY,Private,MILK BY-PRODUCTS,SOUR CREAMS,16 OZ,4,1,sales_positive_only,4,1,sales_and_penetration_positive,4,0,mixed_or_nonpositive,4,0,mixed_or_nonpositive,2
+863449,69,GROCERY,Private,SOUP,RTS SOUP: CHUNKY/HOMESTYLE ET,18.6 OZ,4,0,mixed_or_nonpositive,4,1,sales_and_penetration_positive,4,1,penetration_positive_only,4,0,mixed_or_nonpositive,2
+873654,69,GROCERY,Private,SUGARS/SWEETNERS,SUGAR,32 OZ,7,1,sales_and_penetration_positive,8,1,sales_and_penetration_positive,,,,,,,2
+885023,531,GROCERY,National,BAKING NEEDS,BITS & MORSELS,12 OZ,3,1,sales_and_penetration_positive,6,1,sales_and_penetration_positive,1,0,insufficient_multistore_support,1,0,insufficient_multistore_support,2
+896369,69,GROCERY,Private,PNT BTR/JELLY/JAMS,PEANUT BUTTER,18 OZ,33,0,mixed_or_nonpositive,29,1,sales_positive_only,31,1,sales_and_penetration_positive,27,0,mixed_or_nonpositive,2
+903233,1251,GROCERY,National,SOUP,RTS SOUP: CHUNKY/HOMESTYLE ET,19 OZ,3,1,sales_and_penetration_positive,3,1,penetration_positive_only,1,0,insufficient_multistore_support,1,0,insufficient_multistore_support,2
+918368,69,GROCERY,Private,CHEESE,SHREDDED CHEESE,8 OZ,2,0,insufficient_multistore_support,4,1,sales_and_penetration_positive,3,1,sales_and_penetration_positive,2,0,insufficient_multistore_support,2
+987724,69,GROCERY,Private,CHEESE,SHREDDED CHEESE,8 OZ,4,0,mixed_or_nonpositive,5,1,sales_positive_only,4,1,sales_positive_only,4,0,mixed_or_nonpositive,2
+1003188,69,GROCERY,Private,CANNED JUICES,APPLE JUICE & CIDER (OVER 50%,64 OZ,27,1,penetration_positive_only,12,0,mixed_or_nonpositive,25,1,sales_and_penetration_positive,10,0,mixed_or_nonpositive,2
+1044895,69,GROCERY,Private,FLOUR & MEALS,FLOUR: WHITE & SELF RISING,5 LB,7,1,sales_and_penetration_positive,3,1,sales_and_penetration_positive,1,0,insufficient_multistore_support,,,,2
+1068719,69,GROCERY,Private,SUGARS/SWEETNERS,SUGAR,(600) 4LB,3,1,sales_and_penetration_positive,2,0,insufficient_multistore_support,3,1,sales_and_penetration_positive,1,0,insufficient_multistore_support,2
+1077490,1251,GROCERY,National,SOUP,CONDENSED SOUP,10.5 OZ,4,1,penetration_positive_only,18,0,mixed_or_nonpositive,5,1,sales_positive_only,4,0,mixed_or_nonpositive,2
+1094955,499,GROCERY,National,MEAT - SHELF STABLE,SANDWICH SAUCE,15.5 OZ,4,1,sales_and_penetration_positive,2,0,insufficient_multistore_support,3,1,sales_and_penetration_positive,1,0,insufficient_multistore_support,2
+830887,2557,GROCERY,National,CANNED JUICES,ASEPTIC PACK JUICE AND DRINKS,10/6.75 OZ,5,1,sales_positive_only,8,0,mixed_or_nonpositive,7,0,mixed_or_nonpositive,4,1,penetration_positive_only,1
+852864,407,GROCERY,National,VEGETABLES - SHELF STABLE,BEANS GREEN: FS/WHL/CUT,14.5 OZ,4,0,mixed_or_nonpositive,13,0,mixed_or_nonpositive,8,1,sales_and_penetration_positive,3,1,sales_and_penetration_positive,1
+864774,942,GROCERY,National,CONDIMENTS/SAUCES,SALAD MUSTARD,14 OZ,18,0,mixed_or_nonpositive,15,0,mixed_or_nonpositive,12,1,sales_and_penetration_positive,8,1,sales_and_penetration_positive,1
+867668,69,GROCERY,Private,CRACKERS/MISC BKD FD,SOUP CRACKERS (SALTINE/OYSTER),14 OZ,10,0,mixed_or_nonpositive,9,0,mixed_or_nonpositive,8,1,penetration_positive_only,7,1,sales_and_penetration_positive,1
+889774,407,GROCERY,National,VEGETABLES - SHELF STABLE,CORN,15.25 OZ,5,0,mixed_or_nonpositive,10,1,penetration_positive_only,9,0,mixed_or_nonpositive,5,1,sales_and_penetration_positive,1
+913785,131,GROCERY,National,CONDIMENTS/SAUCES,CATSUP,24 OZ,22,0,mixed_or_nonpositive,9,0,mixed_or_nonpositive,20,1,sales_and_penetration_positive,3,1,sales_and_penetration_positive,1
+931671,764,GROCERY,National,WAREHOUSE SNACKS,CANISTER POTATO/TORT CHIPS,5.75 OZ,4,0,mixed_or_nonpositive,4,0,mixed_or_nonpositive,5,1,sales_and_penetration_positive,3,1,sales_and_penetration_positive,1
+1038217,69,GROCERY,Private,CRACKERS/MISC BKD FD,SOUP CRACKERS (SALTINE/OYSTER),16 OZ,50,0,mixed_or_nonpositive,50,0,mixed_or_nonpositive,46,1,sales_and_penetration_positive,39,1,sales_and_penetration_positive,1
+1044805,1251,GROCERY,National,SOUP,RTS SOUP: CHUNKY/HOMESTYLE ET,19 OZ,9,0,mixed_or_nonpositive,10,0,mixed_or_nonpositive,5,1,sales_and_penetration_positive,5,1,sales_and_penetration_positive,1
+1058779,69,GROCERY,Private,SALD DRSNG/SNDWCH SPRD,POURABLE SALAD DRESSINGS,16 OZ,21,0,mixed_or_nonpositive,18,0,mixed_or_nonpositive,17,1,penetration_positive_only,13,1,sales_and_penetration_positive,1
+1069621,69,GROCERY,Private,SHORTENING/OIL,CANOLA OILS,48 OZ,14,0,mixed_or_nonpositive,20,0,mixed_or_nonpositive,4,1,sales_and_penetration_positive,3,1,sales_and_penetration_positive,1
+1114597,1232,GROCERY,National,REFRGRATD JUICES/DRNKS,DAIRY CASE JUICE DRNK UNDER 10,64 OZ,3,0,mixed_or_nonpositive,3,0,mixed_or_nonpositive,3,1,sales_and_penetration_positive,3,1,sales_and_penetration_positive,1
+1122568,1046,GROCERY,National,COLD CEREAL,KIDS CEREAL,13 OZ,9,0,mixed_or_nonpositive,10,0,mixed_or_nonpositive,10,1,sales_and_penetration_positive,9,1,sales_and_penetration_positive,1
+1135768,1276,GROCERY,National,ISOTONIC DRINKS,ISOTONIC DRINKS SINGLE SERVE,32 OZ,7,0,mixed_or_nonpositive,9,0,mixed_or_nonpositive,7,1,sales_and_penetration_positive,6,1,sales_and_penetration_positive,1
+823721,317,GROCERY,National,CHEESE,GRATED CHEESE,8 OZ,5,1,sales_and_penetration_positive,,,,,,,,,,1
+824915,69,GROCERY,Private,FRUIT - SHELF STABLE,FRUIT BOWL AND CUPS,4 OZ,3,1,sales_and_penetration_positive,,,,,,,,,,1
+832678,586,GROCERY,National,CRACKERS/MISC BKD FD,BUTTER SPRAY CRACKER (RITZ/CLU,16 OZ,7,0,mixed_or_nonpositive,5,1,penetration_positive_only,5,0,mixed_or_nonpositive,3,0,mixed_or_nonpositive,1
+839243,942,GROCERY,National,VEGETABLES - SHELF STABLE,MISCELLANEOUS VEGETABLES,6 OZ,3,0,mixed_or_nonpositive,3,1,sales_and_penetration_positive,1,0,insufficient_multistore_support,,,,1
+847789,69,GROCERY,Private,BAKED BREAD/BUNS/ROLLS,MAINSTREAM WHEAT/MULTIGRAIN BR,20 OZ,2,0,insufficient_multistore_support,3,1,sales_and_penetration_positive,2,0,insufficient_multistore_support,1,0,insufficient_multistore_support,1
+892008,1377,GROCERY,National,MEAT - SHELF STABLE,PASTA: CANNED,14.5 OZ,32,1,penetration_positive_only,33,0,mixed_or_nonpositive,31,0,mixed_or_nonpositive,30,0,mixed_or_nonpositive,1
+911812,1251,GROCERY,National,SOUP,CONDENSED SOUP,10.5OZ,27,0,mixed_or_nonpositive,26,1,penetration_positive_only,18,0,mixed_or_nonpositive,15,0,mixed_or_nonpositive,1
+927191,69,GROCERY,Private,SEAFOOD - SHELF STABLE,TUNA,6 OZ,25,0,mixed_or_nonpositive,24,1,penetration_positive_only,,,,,,,1
+937928,781,GROCERY,National,MEAT - SHELF STABLE,CHILI: CANNED,15 OZ,3,1,sales_and_penetration_positive,2,0,insufficient_multistore_support,,,,,,,1
+961554,69,PRODUCE,Private,CARROTS,CARROTS MINI PEELED,1 LB,,,,4,1,sales_and_penetration_positive,,,,,,,1
+962229,1636,GROCERY,National,BAKED BREAD/BUNS/ROLLS,MAINSTREAM WHITE BREAD,24 OZ,4,1,sales_and_penetration_positive,,,,,,,,,,1
+974108,764,GROCERY,National,WAREHOUSE SNACKS,CANISTER POTATO/TORT CHIPS,6 OZ,2,0,insufficient_multistore_support,3,1,sales_and_penetration_positive,2,0,insufficient_multistore_support,1,0,insufficient_multistore_support,1
+977499,69,GROCERY,Private,DINNER MXS:DRY,MACARONI & CHEESE DNRS,14 OZ,4,1,sales_and_penetration_positive,3,0,mixed_or_nonpositive,1,0,insufficient_multistore_support,,,,1
+998373,1225,GROCERY,National,CANNED MILK,CANNED MILK,12 OZ,3,1,sales_and_penetration_positive,,,,,,,,,,1
+1014238,317,GROCERY,National,DINNER MXS:DRY,MACARONI & CHEESE DNRS,14 OZ,3,0,mixed_or_nonpositive,3,1,sales_and_penetration_positive,,,,,,,1
+1019744,69,GROCERY,Private,SEAFOOD - SHELF STABLE,TUNA,6 OZ,1,0,insufficient_multistore_support,3,1,sales_and_penetration_positive,,,,,,,1
+1024731,170,GROCERY,National,FRUIT - SHELF STABLE,FRUIT BOWL AND CUPS,6 PK/4 OZ,1,0,insufficient_multistore_support,6,1,sales_and_penetration_positive,,,,,,,1
+1038746,69,GROCERY,Private,SHORTENING/OIL,VEGETABLE/SALAD OIL,48 OZ,,,,3,1,sales_and_penetration_positive,,,,,,,1
+1039348,69,GROCERY,Private,COOKIES/CONES,VANILLA WAFER/KIDS COOKIES,12 OZ,3,1,sales_and_penetration_positive,,,,1,0,insufficient_multistore_support,,,,1
+1043590,69,GROCERY,Private,SHORTENING/OIL,VEGETABLE/SALAD OIL,48 OZ,28,1,sales_and_penetration_positive,31,0,mixed_or_nonpositive,10,0,mixed_or_nonpositive,7,0,mixed_or_nonpositive,1
+1054424,69,GROCERY,Private,HOT CEREAL,INSTANT OATMEAL,15 OZ,4,1,sales_and_penetration_positive,1,0,insufficient_multistore_support,,,,,,,1
+1074754,1075,GROCERY,National,COOKIES/CONES,SANDWICH COOKIES,18 OZ,4,0,mixed_or_nonpositive,4,1,sales_and_penetration_positive,2,0,insufficient_multistore_support,2,0,insufficient_multistore_support,1
+1103741,827,GROCERY,National,FRUIT - SHELF STABLE,MANDARIN ORANGES/CITRUS SECT,15 OZ,1,0,insufficient_multistore_support,3,1,sales_and_penetration_positive,,,,,,,1
+9677236,69,GROCERY,Private,PAPER TOWELS,PAPER TOWELS & HOLDERS, ,3,1,sales_and_penetration_positive,,,,,,,,,,1
+10204822,857,DRUG GM,National,CANDY - PACKAGED,CANDY BARS (MULTI PACK),4.62 OZ,4,0,mixed_or_nonpositive,2,0,insufficient_multistore_support,3,1,sales_and_penetration_positive,1,0,insufficient_multistore_support,1
+826249,69,GROCERY,Private,BAKED BREAD/BUNS/ROLLS,HAMBURGER BUNS,12 OZ,4,0,mixed_or_nonpositive,4,0,mixed_or_nonpositive,4,0,mixed_or_nonpositive,4,1,sales_positive_only,0
+849843,69,GROCERY,Private,BAKED BREAD/BUNS/ROLLS,MAINSTREAM WHEAT/MULTIGRAIN BR,20 OZ,3,0,mixed_or_nonpositive,3,0,mixed_or_nonpositive,3,0,mixed_or_nonpositive,3,1,sales_and_penetration_positive,0
+895743,843,GROCERY,National,BEANS - CANNED GLASS & MW,PREPARED BEANS - BAKED W/PORK,28 OZ,6,0,mixed_or_nonpositive,9,0,mixed_or_nonpositive,6,0,mixed_or_nonpositive,5,1,sales_and_penetration_positive,0
+973861,69,GROCERY,Private,VEGETABLES - SHELF STABLE,BEANS GREEN: FS/WHL/CUT,14 1/4 OZ,22,0,mixed_or_nonpositive,27,0,mixed_or_nonpositive,14,0,mixed_or_nonpositive,13,1,penetration_positive_only,0
+976955,69,GROCERY,Private,VEGETABLES - SHELF STABLE,CORN,14.75 OZ,7,0,mixed_or_nonpositive,9,0,mixed_or_nonpositive,6,0,mixed_or_nonpositive,5,1,sales_positive_only,0
+1013321,69,GROCERY,Private,VEGETABLES - SHELF STABLE,BEANS GREEN: FS/WHL/CUT,14.5 OZ,45,0,mixed_or_nonpositive,53,0,mixed_or_nonpositive,35,0,mixed_or_nonpositive,32,1,sales_and_penetration_positive,0
+1029968,1276,GROCERY,National,ISOTONIC DRINKS,ISOTONIC DRINKS SINGLE SERVE,32 OZ,3,0,mixed_or_nonpositive,3,0,mixed_or_nonpositive,3,0,mixed_or_nonpositive,3,1,sales_positive_only,0
+1041796,1075,GROCERY,National,CRACKERS/MISC BKD FD,BUTTER SPRAY CRACKER (RITZ/CLU,16 OZ,4,0,mixed_or_nonpositive,4,0,mixed_or_nonpositive,4,0,mixed_or_nonpositive,4,1,penetration_positive_only,0
+1042438,1075,GROCERY,National,COOKIES/CONES,SANDWICH COOKIES,18 OZ,7,0,mixed_or_nonpositive,7,0,mixed_or_nonpositive,5,0,mixed_or_nonpositive,5,1,sales_and_penetration_positive,0
+1054262,1046,GROCERY,National,COLD CEREAL,KIDS CEREAL,13 OZ,16,0,mixed_or_nonpositive,18,0,mixed_or_nonpositive,21,0,mixed_or_nonpositive,13,1,sales_and_penetration_positive,0
+1070820,69,GROCERY,Private,FLUID MILK PRODUCTS,FLUID MILK WHITE ONLY,1 GA,3,0,mixed_or_nonpositive,3,0,mixed_or_nonpositive,3,0,mixed_or_nonpositive,3,1,sales_and_penetration_positive,0
+1101173,317,GROCERY,National,DINNER MXS:DRY,MACARONI & CHEESE DNRS,12 OZ,11,0,mixed_or_nonpositive,9,0,mixed_or_nonpositive,9,0,mixed_or_nonpositive,6,1,sales_and_penetration_positive,0

@@ -1,0 +1,6 @@
+eligibility_reason,customer_products,households,baseline_baskets,basket_weight_share
+baseline_eligible_before_reranking,17646,1863,68637,0.5703400252609186
+never_at_home_store,3579,1412,13849,0.11507844180017283
+never_in_causal_data,2818,1299,12726,0.105746859004188
+first_home_store_log_after_baseline,3200,1359,12642,0.10504885993485343
+one_time_purchase,12490,1060,12490,0.10378581399986704

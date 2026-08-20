@@ -1,0 +1,8 @@
+step_order,window,funnel_stage,households,denominator,rate
+1,risk,high_value_baseline,403,403,1.0
+2,risk,stage1_monitor,163,403,0.4044665012406948
+3,risk,stage2_target,67,403,0.1662531017369727
+4,4week,campaign_assigned,57,67,0.8507462686567164
+5,4week,coupon_redeemed,1,57,0.017543859649122806
+6,8week,campaign_assigned,58,67,0.8656716417910447
+7,8week,coupon_redeemed,7,58,0.1206896551724138

@@ -1,0 +1,4 @@
+table_name,row_count,product_count,store_count,min_week,max_week
+causal_data,36786524,68377,115,9,101
+product,92353,92353,,,
+transaction_data,2595732,92339,582,1,102

@@ -1,0 +1,3 @@
+candidate_definition,households
+exclude_zero_quantity_zero_sales_product_rows,2005
+raw_all_transaction_rows,2009
