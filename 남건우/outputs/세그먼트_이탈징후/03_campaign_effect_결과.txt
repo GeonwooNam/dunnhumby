@@ -1,0 +1,48 @@
+### [1단계] 캠페인 수신 여부별 2년 총지출 — '차이'는 크다
+      grp  n_hh  mean_spend  med_spend
+      미수신   916       958.0      696.0
+수신(1회 이상)  1584      4110.0     3199.0
+
+### [2단계] 수신 가구 내 상환 vs 비상환 가구의 지출 (상환 = M의 재표현)
+grp  n_hh  med_spend  avg_spend
+비상환  1150     2632.0     3425.0
+ 상환   434     5056.0     5925.0
+                  metric  p25  med  p75
+상환 434가구의 수신 가구 내 지출 백분위 53.0 73.0 88.0
+
+### [3단계] 겹침 없는 '깨끗한' 수신 쌍 — 타입별 생존 규모
+camp_type  n_campaigns  clean_pairs  pairs_med_per_campaign
+    TypeA            5       1116.0                     159
+    TypeB           19        194.0                       5
+    TypeC            6         16.0                       1
+→ 전체 7,208쌍 중 1,326쌍(18.4%)만 생존. TypeB·C는 캠페인 단위 표본이 얇아 타입 단위로만 서술
+
+### [3단계] 매칭 사전-사후 차이 — 타입 단위 (매칭 커버리지 100.0%)
+camp_type    n  did_wk  did_wk_med  pct_above_ctrl
+    TypeA 1116    3.11        0.69            52.5
+    TypeB  194    3.82        1.65            55.7
+    TypeC   16    4.50       -0.32            50.0
+
+### [4단계] 같은 차이를 세그먼트로 분해 — 부호가 갈린다
+camp_type segment   n  did_wk  did_wk_med  pct_above_ctrl
+    TypeA S1_고액활성 501    6.78        5.90            61.7
+    TypeA S2_고액휴면 275    3.47        1.89            54.9
+    TypeA S3_저액활성 133   -0.53       -0.86            45.9
+    TypeA S4_저액휴면 207   -3.89       -4.25            31.4
+    TypeB S1_고액활성  78    4.99        6.24            65.4
+    TypeB S2_고액휴면  47   10.23        9.67            66.0
+    TypeB S3_저액활성  31   -1.40       -2.79            29.0
+    TypeB S4_저액휴면  38   -2.23       -3.29            44.7
+    TypeC S1_고액활성   7   12.73        9.30            71.4
+    TypeC S2_고액휴면   5   -8.00       -1.57            20.0
+    TypeC S3_저액활성   3    1.91       -1.28            33.3
+    TypeC S4_저액휴면   1   17.20       17.20           100.0
+
+부호 뒤집힘(n>=30 셀 중 DID<0): 4건 → 타입 단위 평균 인용 금지
+camp_type segment   n  did_wk  did_wk_med  pct_above_ctrl
+    TypeA S3_저액활성 133   -0.53       -0.86            45.9
+    TypeA S4_저액휴면 207   -3.89       -4.25            31.4
+    TypeB S3_저액활성  31   -1.40       -2.79            29.0
+    TypeB S4_저액휴면  38   -2.23       -3.29            44.7
+
+03_campaign_effect done

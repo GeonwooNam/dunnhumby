@@ -1,0 +1,19 @@
+{
+  "ret_stats": {
+    "n": 1855,
+    "median": 6.0,
+    "p75": 15.0,
+    "p90": 34.0,
+    "within7_share": 0.5849056603773585,
+    "within14_share": 0.7460916442048517
+  },
+  "vol": {
+    "episodes_per_week_median_excl_first": 287.0,
+    "episodes_per_week_first_week": 455,
+    "hv_episodes_per_week_median_excl_first": 74.0
+  },
+  "churn_pattern": {
+    "점진형": 23,
+    "절벽형": 13
+  }
+}
