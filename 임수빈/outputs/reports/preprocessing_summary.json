@@ -1,0 +1,18 @@
+{
+  "dataset_end_day": 711,
+  "feature_cutoff_day": 655,
+  "label_window_days": 56,
+  "transaction_rows": 2595732,
+  "households": 2500,
+  "baskets": 276484,
+  "products_purchased": 92339,
+  "stores": 582,
+  "sales_value_sum": 8057463.0,
+  "negative_sales_rows": 0,
+  "zero_sales_rows": 18850,
+  "nonpositive_quantity_rows": 14466,
+  "customer_week_rows": 123976,
+  "labeled_customers": 2499,
+  "churn_56d_rate": 0.113645,
+  "risk_rule_rate": 0.258904
+}
